@@ -8,21 +8,21 @@ const menu = [
   {
     children: 'About',
     className: 'order-1-ns w-20',
-    href: 'about.html'
+    href: '#'
   },
   {
     children: 'Tickets',
     className: 'order-2-ns w-20',
-    href: 'tickets.html'
+    href: '#'
   },
   {
     children: 'Journal',
     className: 'order-4-ns w-20',
-    href: 'journal.html'
+    href: '#'
   },
   {
     children: 'Contact',
     className: 'order-5-ns w-20',
-    href: 'contact.html'
+    href: '#'
   }
 ];
